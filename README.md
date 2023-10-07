@@ -1,4 +1,5 @@
 
+
 # Resume Parsing & Shortlisting Web App
 
 This is an end to end machine learning project served on Flask for parsing and ranking candidates based on similarity scores between resumes and job description.
@@ -38,12 +39,3 @@ Start the web app
 ```bash
  python -m flask run
 ```
-
-
-## Screenshots
-
-![Alt home](/screenshots/home.png?raw=true "Home")
-##### Extracted informations
-![Alt Candidates](/screenshots/outputsheet.png?raw=true "Output")
-
-
